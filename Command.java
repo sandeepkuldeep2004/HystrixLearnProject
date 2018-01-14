@@ -1,2 +1,7 @@
-Class Command{
+class Command{
+ 
+  public void execute(){
+  //TBD
+  }
+  
 }
